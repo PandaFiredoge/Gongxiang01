@@ -30,6 +30,7 @@ Freeflarum也有flarum.cloud的域名。
 - ~~https://cnsupport.freeflarum.com/~~
 - ~~https://protectnote.freeflarum.com/~~
 - ~~https://wikidot.freeflarum.com/~~
+- 超理吧山寨版，域名已不可考
 
 ## Tiddlyhost
 - https://note-wiki.tiddlyhost.com/ （被请求移除：[simonbaird/tiddlyhost#333](https://github.com/simonbaird/tiddlyhost/issues/333)）
