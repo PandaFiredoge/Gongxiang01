@@ -23,6 +23,7 @@
 - 设置滥用过滤器，阻止新用户加入HTML注释`<!--`、大型`div`、特定词句等。
 - 封禁Proxyium的IP段。
 - 封禁已知的Gongxinag01使用的哈尔滨IP或者IP段。
+- 使用工具批量回退和删除扰乱和破坏内容，比如[这个工具](https://github.com/PandaFiredoge/mw-batch-tool)
 
 ## 用户名倾向
 - 与Gongxiang相关
